@@ -15,21 +15,21 @@ Final Score = Score * %attendance
 
 ***********************************************************************************************************************************************************
 # Slide for learned 🏀🏈
-- 01Intro : [Click to go to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/01Intro.pdf)
-- 02Data : [Click to go to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/02Data.pdf)
-- 03Preprocessing : [Click to go to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/03Preprocessing.pdf)
-- 06FPBasic : [Click to go to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/06FPBasic.pdf)
-- 08ClassBasic : [Click to go to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/08ClassBasic.pdf)
-- 09ClassAdvanced : [Click to go to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/09ClassAdvanced.pdf)
-- 10ClusBasic : [Click to go to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/10ClusBasic.pdf)
-- ปัญญาประดิษฐ์ : [Click to go to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C.pdf)
+- 01Intro : [Click to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/01Intro.pdf)
+- 02Data : [Click to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/02Data.pdf)
+- 03Preprocessing : [Click to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/03Preprocessing.pdf)
+- 06FPBasic : [Click to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/06FPBasic.pdf)
+- 08ClassBasic : [Click to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/08ClassBasic.pdf)
+- 09ClassAdvanced : [Click to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/09ClassAdvanced.pdf)
+- 10ClusBasic : [Click to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/10ClusBasic.pdf)
+- ปัญญาประดิษฐ์ : [Click to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C.pdf)
 ***********************************************************************************************************************************************************
 # All Code 😊🥰
-- Understanding Data : [Click to go to colab](https://colab.research.google.com/github/Wilanth/BSC_DPDM23/blob/main/Understanding_Data.ipynb)
-- Data Preprocessing : [Click to go to colab](https://colab.research.google.com/github/Wilanth/BSC_DPDM23/blob/main/Data_Preprocessing.ipynb)
-- Dimensionality Reduction PCA : [Click to go to colab](https://colab.research.google.com/github/Wilanth/BSC_DPDM23/blob/main/Dimensionality_Reduction_PCA.ipynb)
-- Frequent Patterns : [Click to go to colab](https://colab.research.google.com/github/Wilanth/BSC_DPDM23/blob/main/Frequent_Patterns_(Association_Rules).ipynb)
-- Classification : [Click to go to colab](https://colab.research.google.com/github/Wilanth/BSC_DPDM23/blob/main/Classification.ipynb)
+- Understanding Data : [Click to colab](https://colab.research.google.com/github/Wilanth/BSC_DPDM23/blob/main/Understanding_Data.ipynb)
+- Data Preprocessing : [Click to colab](https://colab.research.google.com/github/Wilanth/BSC_DPDM23/blob/main/Data_Preprocessing.ipynb)
+- Dimensionality Reduction PCA : [Click to colab](https://colab.research.google.com/github/Wilanth/BSC_DPDM23/blob/main/Dimensionality_Reduction_PCA.ipynb)
+- Frequent Patterns : [Click to colab](https://colab.research.google.com/github/Wilanth/BSC_DPDM23/blob/main/Frequent_Patterns_(Association_Rules).ipynb)
+- Classification : [Click to colab](https://colab.research.google.com/github/Wilanth/BSC_DPDM23/blob/main/Classification.ipynb)
 ***********************************************************************************************************************************************************
 # Homework All 🍵☕
 ### HW1 Frequent set item set และ Association rules (กลุ่ม)
@@ -38,10 +38,12 @@ Final Score = Score * %attendance
 - นางสาววริศรา ปันลา         รหัสนักศึกษา 643020519-7
 - นางสาวอนัญญา พูลสวัสดิ์     รหัสนักศึกษา 643020526-0
 - นางสาววิลันดา ทาระมาตย์     รหัสนักศึกษา 643021271-2
->>- Code : [Click to go to colab](https://colab.research.google.com/github/Wilanth/BSC_DPDM23/blob/main/Frequent_Patterns_(Association_Rules).ipynb#scrollTo=IjjW9maQcS8Z)
->>- PRESENTATION : [Click to go to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/HW1_%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%AD%E0%B8%A2%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%A1.pdf)
+>>- Code : [Click to code](https://colab.research.google.com/github/Wilanth/BSC_DPDM23/blob/main/Frequent_Patterns_(Association_Rules).ipynb#scrollTo=IjjW9maQcS8Z)
+>>- PRESENTATION : [Click to presentation](https://github.com/Wilanth/BSC_DPDM23/blob/main/HW1_%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AB%E0%B8%99%E0%B8%B9%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%AB%E0%B8%AD%E0%B8%A2%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%A1.pdf)
+
 ###  HW2 Decision Tree (เดี่ยว)
->>- PRESENTATION : [Click to go to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/HW2_643021271-2_%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%20%E0%B8%97%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A2%E0%B9%8C.pdf)
+>>- PRESENTATION : [Click to presentation](https://github.com/Wilanth/BSC_DPDM23/blob/main/HW2_643021271-2_%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%20%E0%B8%97%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A2%E0%B9%8C.pdf)
+
 ###  HW3 DECISION TREE CLASSIFIER  (โปรแกรม)(กลุ่ม)
 >> parameter Splitter & Min_Samples_Split
 >> สมาชิกกลุ่มหนูน้อยหอยนางรม & กลุ่มNMN
@@ -52,8 +54,9 @@ Final Score = Score * %attendance
 - นางสาววริศรา ปันลา         รหัสนักศึกษา 643020519-7
 - นางสาวอนัญญา พูลสวัสดิ์     รหัสนักศึกษา 643020526-0
 - นางสาววิลันดา ทาระมาตย์     รหัสนักศึกษา 643021271-2
->>- Code : [Click to go to colab](https://colab.research.google.com/github/Wilanth/BSC_DPDM23/blob/main/Classification.ipynb)
->>- PRESENTATION : [Click to go to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/HW3_Decision%20Tree.pdf)
+>>- Code : [Click to code](https://colab.research.google.com/github/Wilanth/BSC_DPDM23/blob/main/Classification.ipynb)
+>>- PRESENTATION : [Click to presentation](https://github.com/Wilanth/BSC_DPDM23/blob/main/HW3_Decision%20Tree.pdf)
+
 ###  HW4 DECISION TREE CLASSIFIER (คำนวนด้วยมือ) (กลุ่ม)
 >> parameter Splitter & Min_Samples_Split
 >> สมาชิกกลุ่มหนูน้อยหอยนางรม & กลุ่มNMN
@@ -64,14 +67,15 @@ Final Score = Score * %attendance
 - นางสาววริศรา ปันลา         รหัสนักศึกษา 643020519-7
 - นางสาวอนัญญา พูลสวัสดิ์     รหัสนักศึกษา 643020526-0
 - นางสาววิลันดา ทาระมาตย์     รหัสนักศึกษา 643021271-2
->>- File คำนวณมือ : [Click to go to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/HW4_Calculate_DicisionTree.pdf)
->>- PRESENTATION : [Click to go to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/HW4_DecisionTreeCal%20(min_samples_split%20%26%20splitter).pdf)
+>>- File คำนวณมือ : [Click to file](https://github.com/Wilanth/BSC_DPDM23/blob/main/HW4_Calculate_DicisionTree.pdf)
+>>- PRESENTATION : [Click to presentation](https://github.com/Wilanth/BSC_DPDM23/blob/main/HW4_DecisionTreeCal%20(min_samples_split%20%26%20splitter).pdf)
+
 ### HW5 Perceptron (เดี่ยว)
->>- PRESENTATION : [Click to go to colab](https://github.com/Wilanth/BSC_DPDM23/blob/main/HW5_643021271-2_%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%20%E0%B8%97%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A2%E0%B9%8C.pdf)
+>>- PRESENTATION : [Click to presentation](https://github.com/Wilanth/BSC_DPDM23/blob/main/HW5_643021271-2_%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%20%E0%B8%97%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A2%E0%B9%8C.pdf)
 ***********************************************************************************************************************************************************
 # Midterm 🌞🌞
->>- Data : [Click to go to colab](https://drive.google.com/drive/folders/1k6tJcTTv2bKmFz6A5oOWi-sAeTVIQpG4)
->>- Code : [Click to go to colab](https://colab.research.google.com/github/Wilanth/BSC_DPDM23/blob/main/midterm_bscdpdm23.ipynb)
+>>- Data : [Click to data](https://drive.google.com/drive/folders/1k6tJcTTv2bKmFz6A5oOWi-sAeTVIQpG4)
+>>- Code : [Click to code](https://colab.research.google.com/github/Wilanth/BSC_DPDM23/blob/main/midterm_bscdpdm23.ipynb)
 ***********************************************************************************************************************************************************
 # Final Project 🍑🍑
 >> สมาชิกกลุ่มหนูน้อยหอยนางรม & กลุ่มช่วยด้วย
@@ -84,6 +88,6 @@ Final Score = Score * %attendance
 - นางสาวสุชานาถ     พิลาภ         รหัสนักศึกษา  643021276-2
 - นางสาวอิงอร       พลพาล        รหัสนักศึกษา  643021279-6
 
->>- DATA Truck : [Click to go to PRESENTATION](https://github.com/Wilanth/BSC_DPDM23/blob/main/Data_Truck..xlsx)
->>- Code : [Click to go to PRESENTATION](https://colab.research.google.com/github/Wilanth/BSC_DPDM23/blob/main/Group_project2.ipynb)
->>- PRESENTATION : [Click to go to PRESENTATION](https://github.com/Wilanth/BSC_DPDM23/blob/main/Final_Project_%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%A3%E0%B8%96%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%97%E0%B8%B8%E0%B8%8101_compressed.pdf)
+>>- DATA Truck : [Click to data](https://github.com/Wilanth/BSC_DPDM23/blob/main/Data_Truck..xlsx)
+>>- Code : [Click to code](https://colab.research.google.com/github/Wilanth/BSC_DPDM23/blob/main/Group_project2.ipynb)
+>>- PRESENTATION : [Click to PRESENTATION](https://github.com/Wilanth/BSC_DPDM23/blob/main/Final_Project_%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%A3%E0%B8%96%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%97%E0%B8%B8%E0%B8%8101_compressed.pdf)
